@@ -1,0 +1,38 @@
+.outside{
+    display:flex;
+    justify-content:center;
+}
+P{
+    background-color:red;
+    }
+
+body{
+    
+    text-align:center;
+    }
+    
+img{
+    width:200px; height:200px;
+}
+
+.here {
+  border-style: solid;
+  border-width: medium;}
+    
+h3{
+    background-color:blue;
+}
+.here{
+    color:white;
+}
+    
+body{
+    background-color:black;
+}
+
+h4{
+    color:white;
+}
+ol{
+    color:white;
+}
